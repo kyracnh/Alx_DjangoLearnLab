@@ -1,4 +1,1 @@
 # Alx_DjangoLearnLab
-
-
-
